@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ahmadroshanfar.github.io/Telegram_Solid_UI",
+  "homepage": "https://ahmadroshanfar.github.io/Telegram_Solid_UI",
   "name": "vite-template-solid",
   "version": "0.0.0",
   "description": "",
@@ -8,6 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
+    "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
